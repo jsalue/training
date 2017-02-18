@@ -1,0 +1,1 @@
+this was a directory traversal.. /www/htdocs/challenges/basics/pre/2/dontlookinhere
